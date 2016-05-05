@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bass Rock Framing & Gallery]]></title>
         <description><![CDATA[Bass Rock Framing & Gallery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://bassrockgallery.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:06:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 13:11:27 GMT</lastBuildDate>
+        <atom:link href="http://bassrockgallery.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bae8517-88a0-4839-97f7-735427ab65a2.jpg">]]></description>
+            <link>http://bassrockgallery.com/01819b01-80a8-4ee9-969b-8b23a8a582f3/index.html</link>
+            <guid isPermaLink="false">01819b01-80a8-4ee9-969b-8b23a8a582f3</guid>
+            <pubDate>Thu, 05 May 2016 13:11:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to our Gallery.  Inside the gallery discover an eclectic mix of original art works, limited and open edition prints, and an ever changing variety of beautiful gifts. </p>]]></description>
-            <link>undefined9595fb55-8415-46ea-ac19-d9faf5c30c60/index.html</link>
+            <link>http://bassrockgallery.com/9595fb55-8415-46ea-ac19-d9faf5c30c60/index.html</link>
             <guid isPermaLink="false">9595fb55-8415-46ea-ac19-d9faf5c30c60</guid>
             <pubDate>Thu, 05 May 2016 13:06:45 GMT</pubDate>
         </item>
