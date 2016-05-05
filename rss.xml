@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bass Rock Framing & Gallery]]></title>
+        <description><![CDATA[Bass Rock Framing & Gallery]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 13:06:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to our Gallery.  Inside the gallery discover an eclectic mix of original art works, limited and open edition prints, and an ever changing variety of beautiful gifts. </p>]]></description>
+            <link>undefined9595fb55-8415-46ea-ac19-d9faf5c30c60/index.html</link>
+            <guid isPermaLink="false">9595fb55-8415-46ea-ac19-d9faf5c30c60</guid>
+            <pubDate>Thu, 05 May 2016 13:06:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
