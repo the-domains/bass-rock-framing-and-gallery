@@ -1,28 +1,40 @@
-name: 'Bass Rock Framing & Gallery'
 favicon: null
-layout_spectrum: 0.9144
-typography_spectrum: 0.20545
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: 'Bass Rock Framing & Gallery'
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#f9f9f9'
-    - '#d5bfa7'
-    - '#a2826d'
-    - '#273b44'
-    - '#036fb6'
+  saturation: 0.625
   brandStrength: 0.9375
   lightness: 0.5257173448335379
-  saturation: 0.625
+  brandColors:
+    - '#FFFFFF'
+    - '#22222C'
+    - '#555358'
+    - '#808082'
+    - '#BCAC92'
   rhythmicContrast: 0.5829362308140844
-purpose: []
+typography_spectrum: 0.20545
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9144
+analytics:
+  twitter: null
+  google: null
+  facebook: null
